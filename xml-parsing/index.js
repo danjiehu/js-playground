@@ -1,4 +1,5 @@
 // ref: https://www.youtube.com/watch?v=VxKGVb0oOBw
+console.log("hello");
 let xmlContent = ""; // create an empty xml 
 let tableBooks = document.querySelector("#books"); // tableBooks is the table with id books in the html file
 
@@ -51,17 +52,22 @@ fetch("books.xml").then(res => { // getting xml content from "books.xml"
 // ref: https://yourblogcoach.com/export-html-table-to-csv-using-javascript/
 // function def: html to csv
 function htmlToCSV(html, filename) {
-    let data = [];
-    let rows = document.querySelectorAll("tr");
+    let data = []; // array of strings, each string is the concatenated string of an entire row
+    let rows = document.querySelectorAll("tr"); // let rows refer to the html table
 
-    for (let i = 0; i < rows.length; i++) {
-        let row = [], cols = rows[i].querySelectorAll("td, th");
+    for (let i = 0; i < rows.length; i++) { // ! for html table row i
+        let row = []; // create an array called row
+        let cells = rows[i].querySelectorAll("td, th"); // select all the cells of row i, refer as "cells"
 
-        for (let j = 0; j < cols.length; j++) {
-            row.push(cols[j].innerText);
+        for (let j = 0; j < cells.length; j++) { // ! for column j
+            row.push(cells[j].innerText);
         }
+        // after end of the for loop, row is an array of strings, each string is row i's cell content
+
+        // row.forEach(cell => data.push(cell));
 
         data.push(row.join(","));
+        // in the end, data array has all the html table content from left to right, top to bottom
     }
 
     downloadCSVFile(data.join("\n"), filename);
