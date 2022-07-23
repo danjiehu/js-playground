@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "fulltable": "node fullTable.js"
   },
   "repository": {
     "type": "git",

@@ -13,7 +13,7 @@ const client = new Client({
 
 client.connect()
     .then(() => console.log("connected successfully"))
-    .then(() => client.query("select * from person where first_name = $1", ["Omar"]))
+    .then(() => client.query("select * from person"))
     .then(results => console.table(results.rows))
     .catch(error => console.log(e))
     .finally(() => client.end())
