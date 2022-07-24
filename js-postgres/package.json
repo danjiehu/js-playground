@@ -6,7 +6,8 @@
   "scripts": {
     "test": "node index.js",
     "fulltable": "node fullTable.js",
-    "asyncFullTable": "node asyncFullTable.js"
+    "asyncFullTable": "node asyncFullTable.js",
+    "tx": "node tx.js"
   },
   "repository": {
     "type": "git",
