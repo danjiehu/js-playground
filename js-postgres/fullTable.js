@@ -14,6 +14,7 @@ const client = new Client({
 client.connect()
     .then(() => console.log("connected successfully"))
     .then(() => client.query("select * from person"))
+    // .then(() => client.query("insert into employees value ($1, $2)", [1001, 'John']))
     .then(results => console.table(results.rows))
     .catch(error => console.log(e))
     .finally(() => client.end())
