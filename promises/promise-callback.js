@@ -1,0 +1,1 @@
+// promise is meant to replace callbacks, here's an example
