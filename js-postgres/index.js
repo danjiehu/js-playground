@@ -1,3 +1,8 @@
+// before this, in terminal:
+// npm init
+// package namae, entry point, test command (executing the code): node index.js
+// repo, author, license
+
 // connecting to a database, creating a client object
 const Client = require('pg').Client;
 // same as syntax: const {Client} = require('pg')
