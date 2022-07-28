@@ -1,4 +1,4 @@
-// ref: 
+// ref: https://m.youtube.com/watch?v=V_Kr9OSfDeU&noapp=1
 // function takes in a location and returns a promise
 function makeRequest(location) {
     return new Promise((resolve, reject) => {
