@@ -15,7 +15,7 @@
 // // 1 - synchronous callback - end
 
 // 2 - callback example - start
-const userLeft = true;
+const userLeft = false;
 const userWatchingCatMeme = true;
 
 // function watchTutorialCallBack(callback, errorCallback) {
