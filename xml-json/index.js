@@ -16,4 +16,4 @@ let resultTwo = parserTwo.toJson(xml);
 fs.writeFileSync('/Users/danjiehu/code/js-playground/xml-json/xml2json-result.json', resultTwo);
 // console.log("resultTwo: ", resultTwo);
 
-// put result to browser for easier reading
+
