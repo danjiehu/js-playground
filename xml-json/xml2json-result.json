@@ -1,0 +1,1057 @@
+{
+    "export": {
+        "xmlns": "http://eu.europa.ec/fpi/fsd/export",
+        "generationDate": "2022-04-12T16:52:21.944+02:00",
+        "globalFileId": "139770",
+        "sanctionEntity": [
+            {
+                "designationDetails": "",
+                "unitedNationId": "",
+                "euReferenceNumber": "EU.27.28",
+                "logicalId": "13",
+                "remark": "UNSC RESOLUTION 1483",
+                "regulation": {
+                    "regulationType": "regulation",
+                    "organisationType": "commission",
+                    "publicationDate": "2003-07-08",
+                    "entryIntoForceDate": "2003-07-07",
+                    "numberTitle": "1210/2003 (OJ L169)",
+                    "programme": "IRQ",
+                    "logicalId": "348",
+                    "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF"
+                },
+                "subjectType": {
+                    "code": "person",
+                    "classificationCode": "P"
+                },
+                "nameAlias": [
+                    {
+                        "firstName": "Saddam",
+                        "middleName": "",
+                        "lastName": "Hussein Al-Tikriti",
+                        "wholeName": "Saddam Hussein Al-Tikriti",
+                        "function": "",
+                        "gender": "M",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "17",
+                        "regulationSummary": {
+                            "regulationType": "regulation",
+                            "publicationDate": "2003-07-08",
+                            "numberTitle": "1210/2003 (OJ L169)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Abu Ali",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "19",
+                        "regulationSummary": {
+                            "regulationType": "regulation",
+                            "publicationDate": "2003-07-08",
+                            "numberTitle": "1210/2003 (OJ L169)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Abou Ali",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "FR",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "380",
+                        "regulationSummary": {
+                            "regulationType": "regulation",
+                            "publicationDate": "2003-07-08",
+                            "numberTitle": "1210/2003 (OJ L169)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF"
+                        }
+                    }
+                ],
+                "citizenship": {
+                    "region": "",
+                    "countryIso2Code": "IQ",
+                    "countryDescription": "IRAQ",
+                    "regulationLanguage": "en",
+                    "logicalId": "1",
+                    "regulationSummary": {
+                        "regulationType": "regulation",
+                        "publicationDate": "2003-07-08",
+                        "numberTitle": "1210/2003 (OJ L169)",
+                        "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF"
+                    }
+                },
+                "birthdate": {
+                    "circa": "false",
+                    "calendarType": "GREGORIAN",
+                    "city": "al-Awja, near Tikrit",
+                    "zipCode": "",
+                    "birthdate": "1937-04-28",
+                    "dayOfMonth": "28",
+                    "monthOfYear": "4",
+                    "year": "1937",
+                    "region": "",
+                    "place": "",
+                    "countryIso2Code": "IQ",
+                    "countryDescription": "IRAQ",
+                    "regulationLanguage": "en",
+                    "logicalId": "14",
+                    "regulationSummary": {
+                        "regulationType": "regulation",
+                        "publicationDate": "2003-07-08",
+                        "numberTitle": "1210/2003 (OJ L169)",
+                        "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF"
+                    }
+                }
+            },
+            {
+                "designationDate": "2022-04-08",
+                "designationDetails": "",
+                "unitedNationId": "",
+                "euReferenceNumber": "EU.8132.1",
+                "logicalId": "139643",
+                "regulation": {
+                    "regulationType": "amendment",
+                    "organisationType": "council",
+                    "publicationDate": "2022-04-08",
+                    "entryIntoForceDate": "2022-04-08",
+                    "numberTitle": "2022/581 (OJ L110)",
+                    "programme": "UKR",
+                    "logicalId": "152162",
+                    "publicationUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC"
+                },
+                "subjectType": {
+                    "code": "person",
+                    "classificationCode": "P"
+                },
+                "nameAlias": [
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Gulbachor ISMAILOVA",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "SV",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "139651",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2022-04-08",
+                            "numberTitle": "2022/581 (OJ L110)",
+                            "publicationUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Ismailova GULBAKHOR",
+                        "function": "",
+                        "gender": "F",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "139649",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2022-04-08",
+                            "numberTitle": "2022/581 (OJ L110)",
+                            "publicationUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Гульбахор ИСМАИЛОВА",
+                        "function": "",
+                        "gender": "F",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "139648",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2022-04-08",
+                            "numberTitle": "2022/581 (OJ L110)",
+                            "publicationUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Ismailova Gulbachor",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "SV",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "139652",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2022-04-08",
+                            "numberTitle": "2022/581 (OJ L110)",
+                            "publicationUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Gulbakhor ISMAILOVA",
+                        "function": "",
+                        "gender": "F",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "139650",
+                        "remark": "Associated individual: Alisher Usmanov, brother",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2022-04-08",
+                            "numberTitle": "2022/581 (OJ L110)",
+                            "publicationUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC"
+                        }
+                    }
+                ],
+                "citizenship": {
+                    "region": "",
+                    "countryIso2Code": "RU",
+                    "countryDescription": "RUSSIAN FEDERATION",
+                    "regulationLanguage": "en",
+                    "logicalId": "139646",
+                    "regulationSummary": {
+                        "regulationType": "amendment",
+                        "publicationDate": "2022-04-08",
+                        "numberTitle": "2022/581 (OJ L110)",
+                        "publicationUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC"
+                    }
+                },
+                "birthdate": {
+                    "circa": "false",
+                    "calendarType": "GREGORIAN",
+                    "city": "",
+                    "zipCode": "",
+                    "birthdate": "1959-12-22",
+                    "dayOfMonth": "22",
+                    "monthOfYear": "12",
+                    "year": "1959",
+                    "region": "",
+                    "place": "",
+                    "countryIso2Code": "UZ",
+                    "countryDescription": "UZBEKISTAN",
+                    "regulationLanguage": "en",
+                    "logicalId": "139645",
+                    "regulationSummary": {
+                        "regulationType": "amendment",
+                        "publicationDate": "2022-04-08",
+                        "numberTitle": "2022/581 (OJ L110)",
+                        "publicationUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC"
+                    }
+                },
+                "address": {
+                    "city": "Tashkent",
+                    "street": "Apartment 81-83, 79 Ustabayeva Street",
+                    "poBox": "",
+                    "zipCode": "1000187",
+                    "region": "",
+                    "place": "",
+                    "asAtListingTime": "false",
+                    "countryIso2Code": "UZ",
+                    "countryDescription": "UZBEKISTAN",
+                    "regulationLanguage": "en",
+                    "logicalId": "139644",
+                    "regulationSummary": {
+                        "regulationType": "amendment",
+                        "publicationDate": "2022-04-08",
+                        "numberTitle": "2022/581 (OJ L110)",
+                        "publicationUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC"
+                    }
+                },
+                "identification": {
+                    "diplomatic": "false",
+                    "knownExpired": "false",
+                    "knownFalse": "false",
+                    "reportedLost": "false",
+                    "revokedByIssuer": "false",
+                    "issuedBy": "",
+                    "latinNumber": "",
+                    "nameOnDocument": "",
+                    "number": "71 3059195",
+                    "region": "",
+                    "identificationTypeCode": "passport",
+                    "identificationTypeDescription": "National passport",
+                    "countryIso2Code": "RU",
+                    "countryDescription": "RUSSIAN FEDERATION",
+                    "regulationLanguage": "en",
+                    "logicalId": "139647",
+                    "regulationSummary": {
+                        "regulationType": "amendment",
+                        "publicationDate": "2022-04-08",
+                        "numberTitle": "2022/581 (OJ L110)",
+                        "publicationUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC"
+                    }
+                }
+            },
+            {
+                "designationDetails": "",
+                "unitedNationId": "",
+                "euReferenceNumber": "EU.513.75",
+                "logicalId": "507",
+                "regulation": {
+                    "regulationType": "amendment",
+                    "organisationType": "commission",
+                    "publicationDate": "2003-05-20",
+                    "entryIntoForceDate": "2003-05-19",
+                    "numberTitle": "866/2003 (OJ L124)",
+                    "programme": "TAQA",
+                    "logicalId": "732",
+                    "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF"
+                },
+                "subjectType": {
+                    "code": "person",
+                    "classificationCode": "P"
+                },
+                "nameAlias": [
+                    {
+                        "firstName": "Aboud",
+                        "middleName": "",
+                        "lastName": "Yasin",
+                        "wholeName": "Aboud Yasin",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "1194",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2003-05-20",
+                            "numberTitle": "866/2003 (OJ L124)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Abdul Rahman S. Taher",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "1192",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2003-05-20",
+                            "numberTitle": "866/2003 (OJ L124)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Abdul Rahman S. Taha",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "1191",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2003-05-20",
+                            "numberTitle": "866/2003 (OJ L124)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "Abdul Rahman",
+                        "middleName": "",
+                        "lastName": "Yasin",
+                        "wholeName": "Abdul Rahman Yasin",
+                        "function": "",
+                        "gender": "M",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "1190",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2003-05-20",
+                            "numberTitle": "866/2003 (OJ L124)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "Abdul Rahman Said",
+                        "middleName": "",
+                        "lastName": "Yasin",
+                        "wholeName": "Abdul Rahman Said Yasin",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "1193",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2003-05-20",
+                            "numberTitle": "866/2003 (OJ L124)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF"
+                        }
+                    }
+                ],
+                "citizenship": {
+                    "region": "",
+                    "countryIso2Code": "US",
+                    "countryDescription": "UNITED STATES",
+                    "regulationLanguage": "en",
+                    "logicalId": "70",
+                    "regulationSummary": {
+                        "regulationType": "regulation",
+                        "publicationDate": "2002-05-29",
+                        "numberTitle": "881/2002 (OJ L139)",
+                        "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF"
+                    }
+                },
+                "birthdate": {
+                    "circa": "false",
+                    "calendarType": "GREGORIAN",
+                    "city": "Bloomington, Indiana",
+                    "zipCode": "",
+                    "birthdate": "1960-04-10",
+                    "dayOfMonth": "10",
+                    "monthOfYear": "4",
+                    "year": "1960",
+                    "region": "",
+                    "place": "",
+                    "countryIso2Code": "US",
+                    "countryDescription": "UNITED STATES",
+                    "regulationLanguage": "en",
+                    "logicalId": "223",
+                    "regulationSummary": {
+                        "regulationType": "regulation",
+                        "publicationDate": "2002-05-29",
+                        "numberTitle": "881/2002 (OJ L139)",
+                        "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF"
+                    }
+                },
+                "address": {
+                    "city": "",
+                    "street": "",
+                    "poBox": "",
+                    "zipCode": "",
+                    "region": "",
+                    "place": "",
+                    "asAtListingTime": "false",
+                    "countryIso2Code": "00",
+                    "countryDescription": "UNKNOWN",
+                    "regulationLanguage": "en",
+                    "logicalId": "172",
+                    "remark": "SSN 156-92-9858 (USA)",
+                    "regulationSummary": {
+                        "regulationType": "regulation",
+                        "publicationDate": "2002-05-29",
+                        "numberTitle": "881/2002 (OJ L139)",
+                        "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF"
+                    }
+                },
+                "identification": [
+                    {
+                        "diplomatic": "false",
+                        "knownExpired": "false",
+                        "knownFalse": "false",
+                        "reportedLost": "false",
+                        "revokedByIssuer": "false",
+                        "issuedBy": "",
+                        "latinNumber": "",
+                        "nameOnDocument": "",
+                        "number": "SSN 156-92-9858",
+                        "region": "",
+                        "identificationTypeCode": "id",
+                        "identificationTypeDescription": "National identification card",
+                        "countryIso2Code": "US",
+                        "countryDescription": "UNITED STATES",
+                        "regulationLanguage": "en",
+                        "logicalId": "428",
+                        "remark": [
+                            "(usa national identification no)",
+                            "(usa national identification no)"
+                        ],
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2003-05-20",
+                            "numberTitle": "866/2003 (OJ L124)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF"
+                        }
+                    },
+                    {
+                        "diplomatic": "false",
+                        "knownExpired": "false",
+                        "knownFalse": "false",
+                        "reportedLost": "false",
+                        "revokedByIssuer": "false",
+                        "issuedBy": "",
+                        "latinNumber": "",
+                        "nameOnDocument": "",
+                        "number": "M0887925",
+                        "region": "",
+                        "identificationTypeCode": "other",
+                        "identificationTypeDescription": "Other identification number",
+                        "countryIso2Code": "IQ",
+                        "countryDescription": "IRAQ",
+                        "regulationLanguage": "en",
+                        "logicalId": "9",
+                        "remark": [
+                            "(iraq)",
+                            "passport no (iraq)",
+                            "(iraq)"
+                        ],
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2003-05-20",
+                            "numberTitle": "866/2003 (OJ L124)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF"
+                        }
+                    },
+                    {
+                        "diplomatic": "false",
+                        "knownExpired": "false",
+                        "knownFalse": "false",
+                        "reportedLost": "false",
+                        "revokedByIssuer": "false",
+                        "issuedBy": "",
+                        "latinNumber": "",
+                        "nameOnDocument": "",
+                        "number": "27082171",
+                        "region": "",
+                        "identificationTypeCode": "passport",
+                        "identificationTypeDescription": "National passport",
+                        "countryIso2Code": "US",
+                        "countryDescription": "UNITED STATES",
+                        "regulationLanguage": "en",
+                        "logicalId": "8",
+                        "remark": [
+                            "(usa passport (issued 21.6.1992 in amman, jordan))",
+                            "(usa passport (issued 21.6.1992 in amman, jordan))",
+                            "passport no (usa) (issued 21.6.1992 in amman, jordan)"
+                        ],
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2003-05-20",
+                            "numberTitle": "866/2003 (OJ L124)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF"
+                        }
+                    }
+                ]
+            },
+            {
+                "designationDate": "2012-11-05",
+                "designationDetails": "",
+                "unitedNationId": "",
+                "euReferenceNumber": "EU.3613.74",
+                "logicalId": "7173",
+                "remark": "Founded by Jalaluddin Haqqani and currently headed by his son Sirajuddin Jallaloudine Haqqani.\nINTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/ une/5282012",
+                "regulation": {
+                    "regulationType": "amendment",
+                    "organisationType": "council",
+                    "publicationDate": "2017-03-09",
+                    "entryIntoForceDate": "2017-03-10",
+                    "numberTitle": "2017/404 (OJ L63)",
+                    "programme": "AFG",
+                    "logicalId": "101046",
+                    "publicationUrl": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN"
+                },
+                "subjectType": {
+                    "code": "enterprise",
+                    "classificationCode": "E"
+                },
+                "nameAlias": [
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "sieť Haqqani",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "SK",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16876",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Rețeaua Haqqani",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "RO",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16875",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Haqqani-nätverket",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "SV",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16879",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Haqqani Network",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16859",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "HQN",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16860",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Мрежа „Haqqani“",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "BG",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16861",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Síť Haqqani",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "CS",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16862",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Haqqaninetværket",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "DA",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16863",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Δίκτυο Haqqani",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "EL",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16864",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Red Haqqani",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "ES",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16865",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Haqqani võrgustik",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "ET",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16866",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Haqqani-verkosto",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "FI",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16867",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Réseau Haqqani",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "FR",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16868",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Rete Haqqani",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "IT",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16869",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Haqqani tinklas",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "LT",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16870",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Haqqani-hálózat",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "HU",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16871",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Haqqani-netwerk",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "NL",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16872",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Sieć Haqqani",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "PL",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16873",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Rede Haqqani",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "PT",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16874",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Mreža Haqqani",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "SL",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16878",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-04",
+                            "numberTitle": "1139/2012 (OJ L332)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF"
+                        }
+                    }
+                ]
+            },
+            {
+                "designationDate": "2012-12-05",
+                "designationDetails": "",
+                "unitedNationId": "",
+                "euReferenceNumber": "EU.3025.21",
+                "logicalId": "7174",
+                "remark": "Date of designation referred to in Article 2a (4) (b): 5.12.2012.",
+                "regulation": {
+                    "regulationType": "amendment",
+                    "organisationType": "commission",
+                    "publicationDate": "2012-12-12",
+                    "entryIntoForceDate": "2012-12-11",
+                    "numberTitle": "1187/2012 (OJ L338)",
+                    "programme": "TAQA",
+                    "logicalId": "1080",
+                    "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF"
+                },
+                "subjectType": {
+                    "code": "enterprise",
+                    "classificationCode": "E"
+                },
+                "nameAlias": [
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16891",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-12",
+                            "numberTitle": "1187/2012 (OJ L338)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF"
+                        }
+                    },
+                    {
+                        "firstName": "",
+                        "middleName": "",
+                        "lastName": "",
+                        "wholeName": "MUJAO",
+                        "function": "",
+                        "title": "",
+                        "nameLanguage": "",
+                        "strong": "true",
+                        "regulationLanguage": "en",
+                        "logicalId": "16892",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-12",
+                            "numberTitle": "1187/2012 (OJ L338)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF"
+                        }
+                    }
+                ],
+                "address": [
+                    {
+                        "city": "",
+                        "street": "",
+                        "poBox": "",
+                        "zipCode": "",
+                        "region": "",
+                        "place": "",
+                        "asAtListingTime": "false",
+                        "countryIso2Code": "ML",
+                        "countryDescription": "MALI",
+                        "regulationLanguage": "en",
+                        "logicalId": "2454",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-12",
+                            "numberTitle": "1187/2012 (OJ L338)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF"
+                        }
+                    },
+                    {
+                        "city": "",
+                        "street": "",
+                        "poBox": "",
+                        "zipCode": "",
+                        "region": "",
+                        "place": "",
+                        "asAtListingTime": "false",
+                        "countryIso2Code": "DZ",
+                        "countryDescription": "ALGERIA",
+                        "regulationLanguage": "en",
+                        "logicalId": "2455",
+                        "regulationSummary": {
+                            "regulationType": "amendment",
+                            "publicationDate": "2012-12-12",
+                            "numberTitle": "1187/2012 (OJ L338)",
+                            "publicationUrl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
