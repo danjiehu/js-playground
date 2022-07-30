@@ -10,6 +10,5 @@
   "license": "ISC",
   "dependencies": {
     "pg": "^8.7.3"
-  },
-  "type": "module"
+  }
 }
