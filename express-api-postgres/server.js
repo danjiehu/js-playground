@@ -1,8 +1,11 @@
 // ref: https://m.youtube.com/watch?v=0JNq46eFuOM&t=11s
+// todo: resume later, web server not completed  
 
 let { client } = require('./client.js'); // connect to postgres database
 const express = require('express'); // import express library
 const app = express(); // creat an express app
+
+app.listen(8080, () => console.log("Web server is listening.. on port 8080"));
 
 // ! start of execution block
 start();
